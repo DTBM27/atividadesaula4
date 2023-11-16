@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ArmazenarNomes {
+public class 3 {
     /**
      * @param args
      * @throws Exception
