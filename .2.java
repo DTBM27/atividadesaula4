@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class  {
+public class 2 {
     /**
      * @param args
      * @throws Exception
